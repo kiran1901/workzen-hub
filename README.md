@@ -6,7 +6,7 @@ Workzen Hub
 
    - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
       Youtube](https://youtu.be/I5srDu75h_M?si=Gf17h7A7ZMRttsHZ) - Java Day 2 - If-else, Switch Break
-   - 🗞 [News](https://www.strategyzer.com/library/spotify-business-model#:~:text=It%20uses%20a%20freemium%20revenue,keep%20its%20premium%20experience%20delightful.) - Spotify BM
+   - 🗞 [News](https://www.strategyzer.com/library/spotify-business-model#:~:text=It%20uses%20a%20freemium%20revenue,keep%20its%20premium%20experience%20delightful.) - Spotify Buisness Model
    - 🧠 Facts - In China, roughly 20 million trees are chopped down every year to make disposable chopsticks
 
 </details>
