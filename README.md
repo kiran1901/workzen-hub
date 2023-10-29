@@ -1,6 +1,17 @@
 # workzen-hub
 Workzen Hub
 
+
+<details>
+   <summary>Day 4 - Oct 29</summary>
+
+   - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
+      Youtube](https://youtu.be/0r1SfRoLuzU?si=B24jYtFKdEsWwRTX) - Loops
+   - 🗞 [News](https://youtube.com/shorts/hIiz8Km2tpo?si=xQk5pvL4eNaykJHr) - Google 5 intresting search
+   - 🧠 Facts - It takes a drop of water 90 days to travel the entire Mississippi River
+
+</details>
+
 <details>
    <summary>Day 3 - Oct 28</summary>
 
