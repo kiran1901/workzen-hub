@@ -1,5 +1,16 @@
 
 <details>
+   <summary>Day 5 - Oct 30</summary>
+
+   - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
+      Youtube](https://youtube.com/shorts/q_nUHURoR24?si=LOPdatSx7vhhG2HC) - Avoid JS mistakes
+   - 🗞 [News](https://www.bqprime.com/quarterly-earnings/tvs-motor-q2-results-profit-surges-32-on-higher-sales) - TVS Motor Q2 Results: Profit Surges 32% On Higher Sales
+   - 🧠 Facts - In China being a professional Panda hugger is a viable career choice that can earn you up to 32,000$ yearly.
+
+</details>
+
+
+<details>
    <summary>Day 4 - Oct 29</summary>
 
    - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
