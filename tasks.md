@@ -1,3 +1,12 @@
+<details>
+   <summary>Day 6 - Oct 31</summary>
+
+   - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
+      Youtube](https://www.instagram.com/reel/Cy7m0LgrX9t/?igshid=MzRlODBiNWFlZA==) - Loader React
+   - 🗞 [News](https://www.investopedia.com/personal-financial-management-pfm-5181311) - Getting started with personal finance
+   - 🧠 Facts - A Petabyte is a lot of data - 1L GB = 1 Petabyte
+
+</details>
 
 <details>
    <summary>Day 5 - Oct 30</summary>
