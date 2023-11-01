@@ -1,6 +1,17 @@
 # workzen-hub
 Workzen Hub
 
+
+<details>
+   <summary>Day 7 - Nov 1</summary>
+
+   - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
+      Youtube](https://youtube.com/shorts/Votsx3M1i24?si=R0va2eO30cOs9e_K) - Monotonic array
+   - 🗞 [News](https://tech.hindustantimes.com/tech/news/cut-apple-scary-fast-event-was-shot-on-iphone-15-pro-max-to-launch-new-imac-macbook-pro-71698827210888.html) - Apple ‘Scary Fast’ event was shot on iPhone 15 Pro Max to launch new iMac, MacBook Pro
+   - 🧠 Facts - Jira is the most popular software development project management application. The second most popular is Trello.
+
+</details>
+
 <details>
    <summary>Day 6 - Oct 31</summary>
 
