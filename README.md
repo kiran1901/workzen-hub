@@ -1,6 +1,14 @@
-# workzen-hub
-Workzen Hub
+# Workzen Hub
 
+<details>
+   <summary>Day 8 - Nov 2</summary>
+
+   - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
+      Youtube](https://youtu.be/TAtrPoaJ7gc?si=i_XohLcVBDQDvQJa) - Java
+   - 🗞 [News](https://www.airtel.in/press-release/10-2023/airtel-in-partnership-with-ericsson-successfully-tests) - airtel-in-partnership-with-ericsson Test of Reduced Capability (RedCap) software on the Airtel 5G network.This will bring down complexity and extend the battery life of devices while delivering higher data speeds
+   - 🧠 Facts - https://medium.com/thefreshwrites/conversions-and-promotions-in-java-d58959c994fa
+
+</details>
 
 <details>
    <summary>Day 7 - Nov 1</summary>
