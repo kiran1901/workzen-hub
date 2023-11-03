@@ -1,4 +1,14 @@
 <details>
+   <summary>Day 9 - Nov 3</summary>
+
+   - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
+      Youtube](https://youtu.be/ldYLYRNaucM?si=uVcqU3HrlJde24Wa) - Java
+   - 🗞 [News](https://youtu.be/BF6lfPlAcgc?si=U5kfoX3k9BcFXGRV) - Tata Steel Posts Q2 Net Loss Bigger Than Estimate; But There Is A Silver Lining
+   - 🧠 Facts -  Mosquitoes are attracted to certain colors.
+
+</details>
+
+<details>
    <summary>Day 8 - Nov 2</summary>
 
    - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
