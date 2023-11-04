@@ -1,4 +1,14 @@
 <details>
+   <summary>Day 10 - Nov 4</summary>
+
+   - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
+      Youtube](https://youtu.be/mA23x39DjbI?si=fcnXF-hUj5cXeMQx) - Functions / Methods
+   - 🗞 [News](https://www.news18.com/viral/haryana-pharma-company-gifts-cars-to-employees-on-diwali-honours-them-as-celebrities-8647921.html) - Haryana Pharma Company Gifts Cars to Employees on Diwali, Honours Them as 'Celebrities'
+   - 🧠 Facts -  J is the last letter that was added to the English alphabet
+
+</details>
+
+<details>
    <summary>Day 9 - Nov 3</summary>
 
    - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
