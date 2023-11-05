@@ -1,5 +1,16 @@
 # Workzen Hub
 <details>
+   <summary>Day 11 - Nov 5</summary>
+
+   - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
+      Youtube](https://youtu.be/mA23x39DjbI?si=ZM8nUaaGzvmtnwPw) - Switch / Nested conditions
+   - 🗞 [News](https://www.livemint.com/companies/news/elon-musk-says-his-new-ai-bot-grok-will-have-sarcasm-and-access-to-x-information-11699179978073.html) -  Back
+Elon Musk Says His New AI Bot ‘Grok’ Will Have Sarcasm and Access to X Information
+   - 🧠 Facts -  Venezuela was the first country in the world to abolish the death penalty for all crimes, doing so by Constitution in 1863
+
+</details>
+
+<details>
    <summary>Day 10 - Nov 4</summary>
 
    - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
