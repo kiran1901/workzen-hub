@@ -1,4 +1,14 @@
 <details>
+   <summary>Day 12 - Nov 6</summary>
+
+   - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
+      Youtube](https://youtu.be/vvanI8NRlSI?si=V_EbdmlMzFxkHuqN) - Functions / Methods
+   - 🗞 [News](https://indianexpress.com/article/technology/artificial-intelligence/openai-devday-developers-conference-what-to-expect-where-to-watch-9015297/) - OpenAI’s first-ever developer conference tonight: What to expect and where to watch
+   - 🧠 Facts - epitome - a perfect example of something.
+
+</details>
+
+<details>
    <summary>Day 11 - Nov 5</summary>
 
    - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
