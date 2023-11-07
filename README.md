@@ -1,4 +1,15 @@
 # Workzen Hub
+
+<details>
+   <summary>Day 13 - Nov 7</summary>
+
+   - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
+      Youtube](https://youtu.be/n60Dn0UsbEk?si=_msXvtSDfa8hnGvg) - Array and Array methods
+   - 🗞 [News](https://youtu.be/qdd2GZ0DVgc?si=EUJhf0K7OXAFwnE_) - Chat gpt 4 turbo dev day glimpse
+   - 🧠 Facts - Cockamamie is an adjective used to describe something ridiculous, silly, or incredible.
+
+</details>
+
 <details>
    <summary>Day 12 - Nov 6</summary>
 
