@@ -1,6 +1,16 @@
 # Workzen Hub
 
 <details>
+   <summary>Day 14 - Nov 8</summary>
+
+   - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
+      Youtube](https://youtu.be/n60Dn0UsbEk?si=_msXvtSDfa8hnGvg) - Array and Array methods
+   - 🗞 [News](https://www.msn.com/en-in/lifestyle/smart-living/i-m-a-former-google-recruiter-the-smartest-job-candidates-always-did-these-5-things-to-stand-out/ar-AA1jwGhv?ocid=msedgntp&cvid=efa91bf475eb47178fe82c644efa1073&ei=17) - The smartest job candidates always did these 5 things to stand out.
+   - 🧠 Facts - pal·in·drome a word, phrase, or sequence that reads the same backward as forward, e.g., madam or nurses run..
+
+</details>
+
+<details>
    <summary>Day 13 - Nov 7</summary>
 
    - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
