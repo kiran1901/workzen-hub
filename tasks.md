@@ -1,4 +1,14 @@
 <details>
+   <summary>Day 15 - Nov 9</summary>
+
+   - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
+      Youtube](https://youtu.be/n60Dn0UsbEk?si=_msXvtSDfa8hnGvg) - Array and Array methods
+   - 🗞 [News](https://news.google.com/articles/CCAiC1dmcjZBTzJQeEhrmAEB?hl=en-IN&gl=IN&ceid=IN%3Aen) - Disney+ Hotstar Loses 2.8 M Subscribers In Sep Quarter
+   - 🧠 Facts - Greenland can't join FIFA because not enough grass grows there for a soccer field.
+
+</details>
+
+<details>
    <summary>Day 14 - Nov 8</summary>
 
    - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
