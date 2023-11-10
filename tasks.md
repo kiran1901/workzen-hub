@@ -1,4 +1,13 @@
 <details>
+   <summary>Day 16 - Nov 10</summary>
+
+   - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
+      Youtube](https://youtu.be/n60Dn0UsbEk?si=_msXvtSDfa8hnGvg) - Array and Array methods
+   - 🗞 [News](https://economictimes.indiatimes.com/tech/technology/apple-delays-work-on-next-years-iphone-mac-software-to-fix-bugs/articleshow/105048526.cms) - Apple delays work on next year’s iPhone, Mac software to fix bugs
+   - 🧠 Facts - The world’s first animated feature film was made in Argentina
+</details>
+
+<details>
    <summary>Day 15 - Nov 9</summary>
 
    - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
