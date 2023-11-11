@@ -1,6 +1,15 @@
 # Workzen Hub
 
 <details>
+   <summary>Day 17 - Nov 11</summary>
+
+   <!-- - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[ -->
+      Youtube](https://youtu.be/n60Dn0UsbEk?si=_msXvtSDfa8hnGvg) - Array and Array methods
+   - 🗞 [News](https://news.google.com/articles/CBMihQFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vdGVjaG5vbG9neS9jaGF0Z3B0LW1ha2Vycy12ZWlsZWQtY3Jpbmd5LWNoYXRib3QtZGlnLWF0LWVsb24tbXVzay1pdHMtbmFtZS1pcy1ncm9rLTEwMTY5OTY4ODI1MzY4NS5odG1s0gGJAWh0dHBzOi8vd3d3LmhpbmR1c3RhbnRpbWVzLmNvbS90ZWNobm9sb2d5L2NoYXRncHQtbWFrZXJzLXZlaWxlZC1jcmluZ3ktY2hhdGJvdC1kaWctYXQtZWxvbi1tdXNrLWl0cy1uYW1lLWlzLWdyb2stMTAxNjk5Njg4MjUzNjg1LWFtcC5odG1s?hl=en-IN&gl=IN&ceid=IN%3Aen) - ChatGPT maker's veiled 'cringy chatbot' dig at Elon Musk: ‘Its name is Grok’
+   - 🧠 Facts - The name of the automotive company"Jeep" actually derives its name from the military term GP, which stands for General Purpose vehicles. 
+</details>
+
+<details>
    <summary>Day 16 - Nov 10</summary>
 
    - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
