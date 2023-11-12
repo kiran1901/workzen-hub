@@ -1,4 +1,13 @@
 <details>
+   <summary>Day 18 - Nov 12</summary>
+
+   <!-- - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[ -->
+      Youtube](https://youtu.be/n60Dn0UsbEk?si=_msXvtSDfa8hnGvg) - Array and Array methods
+   - 🗞 [News](https://www.gadgetsnow.com/featured/explained-the-blue-vs-green-fight-between-apple-and-google/articleshow/105081508.cms?affid=tilltd&affExtParam2=flipkart_gn_web_slideshow) - The blue vs green fight between Apple and Google
+   - 🧠 Facts - A day on Venus lasts longer than a year, it is 243 Earth days.
+</details>
+
+<details>
    <summary>Day 17 - Nov 11</summary>
 
    <!-- - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[ -->
