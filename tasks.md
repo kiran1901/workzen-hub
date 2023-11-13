@@ -1,4 +1,13 @@
 <details>
+   <summary>Day 19 - Nov 13</summary>
+
+   - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
+      Youtube](https://youtu.be/m1Au_FuWSps?si=xulSDHBnWpqSS6HH) - Spotify interview question
+   - 🗞 [News](https://spacenews.com/spacex-launches-final-pair-of-o3b-mpower-satellites-needed-for-commercial-services/) - SpaceX launches final pair of O3b mPower satellites needed for commercial services
+   - 🧠 Facts - Today’s word is mellifluous. It is an adjective that describes something that is sweet and smooth-sounding, like honey or musical
+</details>
+
+<details>
    <summary>Day 18 - Nov 12</summary>
 
    <!-- - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[ -->
