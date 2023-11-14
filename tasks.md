@@ -1,4 +1,13 @@
 <details>
+   <summary>Day 20 - Nov 14</summary>
+
+   - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
+      Youtube](https://youtube.com/shorts/bIZ9CD5fy4k?si=hl_atnO1oDFIjj7i) - JS trick
+   - 🗞 [News](https://www.newindianexpress.com/business/2023/nov/14/sharechat-co-founders-launch-robotics-start-up-2632734.html) - Sharechat co-founders launch robotics start-up
+   - 🧠 Facts - John Walker, the creator of Johnnie Walker Whisky, was a teetotaler and never touched the stuff himself. 
+</details>
+
+<details>
    <summary>Day 19 - Nov 13</summary>
 
    - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
