@@ -1,5 +1,14 @@
 # Workzen Hub
 <details>
+   <summary>Day 21 - Nov 15</summary>
+
+   - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
+      Youtube](https://youtube.com/shorts/t5reyDz4eVQ?si=D0iwymzJ_AHoxm6c) - JS trick
+   - 🗞 [News](https://www.livemint.com/technology/tech-news/elon-musk-apologizes-after-piyush-goyals-visit-to-tesla-fremont-factory-my-apologies-honor-to-have-11699938795499.html) - Elon Musk apologizes after Piyush Goyal's visit to Tesla Fremont factory
+   - 🧠 Facts - trou·vaille - a lucky find: 
+</details>
+
+<details>
    <summary>Day 20 - Nov 14</summary>
 
    - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
