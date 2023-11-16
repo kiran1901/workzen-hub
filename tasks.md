@@ -1,4 +1,11 @@
 <details>
+   <summary>Day 22 - Nov 16</summary>
+
+   - 🗞 [News](https://www.thehindu.com/sci-tech/technology/google-rolls-out-ai-chatbot-bard-for-teenagers/article67539503.ece) - Google rolls out AI chatbot Bard for teenagers
+   - 🧠 Facts - em·pir·i·cal - based on, concerned with, or verifiable by observation or experience rather than theory or pure logic
+</details>
+
+<details>
    <summary>Day 21 - Nov 15</summary>
 
    - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
