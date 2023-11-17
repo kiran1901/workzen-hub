@@ -1,4 +1,13 @@
 <details>
+   <summary>Day 23 - Nov 17</summary>
+
+   - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
+      Youtube](https://youtube.com/shorts/a-ExHGsk_c8?si=jGuK7sjb8g2LLrgJ) - console log object trick
+   - 🗞 [News](https://www.thehindu.com/sci-tech/technology/spotify-use-googles-ai-tailor-podcasts-audiobooks-recommendations/article67540021.ece) - Spotify expanded its partnership with Google Cloud to use large language models (LLMs) to help identify a user’s listening patterns across podcasts and audiobooks 
+   - 🧠 Facts - Scotland chose the unicorn as its national animal.
+</details>
+
+<details>
    <summary>Day 22 - Nov 16</summary>
 
    - 🗞 [News](https://www.thehindu.com/sci-tech/technology/google-rolls-out-ai-chatbot-bard-for-teenagers/article67539503.ece) - Google rolls out AI chatbot Bard for teenagers
