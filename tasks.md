@@ -1,4 +1,13 @@
 <details>
+   <summary>Day 24 - Nov 18</summary>
+
+   - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
+      Youtube](https://mail.google.com/mail/u/0/#starred/FMfcgzGwHfkkbRKKnrCgvsxxMLWPBCXq) - Rakuten Technology Conference 2023
+   - 🗞 [News](https://www.cnbctv18.com/technology/sam-altman-fired-as-openai-ceo-how-the-tech-world-reacted-18354441.htm) - Sam Altman fired as OpenAI CEO
+   - 🧠 Facts - With 16 percent of total global production India is the world largest producer of milk in the world. 
+</details>
+
+<details>
    <summary>Day 23 - Nov 17</summary>
 
    - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
