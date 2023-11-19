@@ -1,4 +1,11 @@
 <details>
+   <summary>Day 25 - Nov 19</summary>
+
+   - 🗞 [News](https://twitter.com/stats_feed/status/1725906996979773855?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1725906996979773855%7Ctwgr%5E51c7ed46f04d4d7bc1af47b2f8c7b60dbbe37a05%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.livemint.com%2Fcompanies%2Fpeople%2Ffrom-apples-steve-jobs-to-openais-sam-altman-heres-the-list-of-founders-fired-from-their-own-companies-11700372220909.html) - Sam Altman fired as OpenAI CEO
+   - 🧠 Facts - According to the Bible, the chicken came before the egg (Genesis 1:20-22).
+</details>
+
+<details>
    <summary>Day 24 - Nov 18</summary>
 
    - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
