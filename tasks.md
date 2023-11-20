@@ -1,4 +1,11 @@
 <details>
+   <summary>Day 26 - Nov 20</summary>
+
+   - 🗞 [News](https://timesofindia.indiatimes.com/gadgets-news/microsoft-hires-former-chatgpt-boss-sam-altman-to-lead-ai-team/articleshow/105351543.cms) - Microsoft hires former ChatGPT boss Sam Altman to lead AI team
+   - 🧠 Facts - Donkey's milk is the best natural substitute for human milk.
+</details>
+
+<details>
    <summary>Day 25 - Nov 19</summary>
 
    - 🗞 [News](https://twitter.com/stats_feed/status/1725906996979773855?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1725906996979773855%7Ctwgr%5E51c7ed46f04d4d7bc1af47b2f8c7b60dbbe37a05%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.livemint.com%2Fcompanies%2Fpeople%2Ffrom-apples-steve-jobs-to-openais-sam-altman-heres-the-list-of-founders-fired-from-their-own-companies-11700372220909.html) - Sam Altman fired as OpenAI CEO
