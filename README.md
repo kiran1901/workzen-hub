@@ -1,5 +1,12 @@
 # Workzen Hub
 <details>
+   <summary>Day 27 - Nov 21</summary>
+
+   - 🗞 [News](https://news.google.com/articles/CBMigAFodHRwczovL3d3dy5jbmJjdHYxOC5jb20vdGVjaG5vbG9neS9taWNyb3NvZnQtdW52ZWlscy1vdXRsb29rLWxpdGUtd2l0aC1zbXMtbG9jYWwtbGFuZ3VhZ2Utc3VwcG9ydC1mb3ItaW5kaWFuLXVzZXJzLTE4Mzc1MTQxLmh0bdIBhAFodHRwczovL3d3dy5jbmJjdHYxOC5jb20vdGVjaG5vbG9neS9taWNyb3NvZnQtdW52ZWlscy1vdXRsb29rLWxpdGUtd2l0aC1zbXMtbG9jYWwtbGFuZ3VhZ2Utc3VwcG9ydC1mb3ItaW5kaWFuLXVzZXJzLTE4Mzc1MTQxLmh0bS9hbXA?hl=en-IN&gl=IN&ceid=IN%3Aen) - Microsoft unveils Outlook Lite with SMS, local language support for Indian users
+   - 🧠 Facts - In Los Angeles, there are fewer people than there are cars.
+</details>
+
+<details>
    <summary>Day 26 - Nov 20</summary>
 
    - 🗞 [News](https://timesofindia.indiatimes.com/gadgets-news/microsoft-hires-former-chatgpt-boss-sam-altman-to-lead-ai-team/articleshow/105351543.cms) - Microsoft hires former ChatGPT boss Sam Altman to lead AI team
