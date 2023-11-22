@@ -1,4 +1,11 @@
 <details>
+   <summary>Day 28 - Nov 22</summary>
+
+   - 🗞 [News](https://www.ndtv.com/world-news/sam-altman-to-return-as-openai-ceo-4595396) - Massive Twist In OpenAI Saga, Sam Altman Returns As CEO Within 5 Days
+   - 🧠 Facts - gour·mand - a person who enjoys eating and often eats too much.
+</details>
+
+<details>
    <summary>Day 27 - Nov 21</summary>
 
    - 🗞 [News](https://news.google.com/articles/CBMigAFodHRwczovL3d3dy5jbmJjdHYxOC5jb20vdGVjaG5vbG9neS9taWNyb3NvZnQtdW52ZWlscy1vdXRsb29rLWxpdGUtd2l0aC1zbXMtbG9jYWwtbGFuZ3VhZ2Utc3VwcG9ydC1mb3ItaW5kaWFuLXVzZXJzLTE4Mzc1MTQxLmh0bdIBhAFodHRwczovL3d3dy5jbmJjdHYxOC5jb20vdGVjaG5vbG9neS9taWNyb3NvZnQtdW52ZWlscy1vdXRsb29rLWxpdGUtd2l0aC1zbXMtbG9jYWwtbGFuZ3VhZ2Utc3VwcG9ydC1mb3ItaW5kaWFuLXVzZXJzLTE4Mzc1MTQxLmh0bS9hbXA?hl=en-IN&gl=IN&ceid=IN%3Aen) - Microsoft unveils Outlook Lite with SMS, local language support for Indian users
