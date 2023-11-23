@@ -1,4 +1,11 @@
 <details>
+   <summary>Day 29 - Nov 23</summary>
+
+   - started devlopment of twinsta
+    
+</details>
+
+<details>
    <summary>Day 28 - Nov 22</summary>
 
    - 🗞 [News](https://www.ndtv.com/world-news/sam-altman-to-return-as-openai-ceo-4595396) - Massive Twist In OpenAI Saga, Sam Altman Returns As CEO Within 5 Days
