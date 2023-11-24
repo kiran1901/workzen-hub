@@ -1,4 +1,11 @@
 <details>
+   <summary>Day 30 - Nov 24</summary>
+
+   - devlopment of twinsta
+    
+</details>
+
+<details>
    <summary>Day 29 - Nov 23</summary>
 
    - started devlopment of twinsta
