@@ -1,5 +1,12 @@
 # Workzen Hub
 <details>
+   <summary>Day 31 - Nov 25</summary>
+
+   - devlopment of twinsta
+    
+</details>
+
+<details>
    <summary>Day 30 - Nov 24</summary>
 
    - devlopment of twinsta
