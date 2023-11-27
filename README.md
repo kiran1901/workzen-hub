@@ -1,5 +1,13 @@
 # Workzen Hub
 <details>
+   <summary>Day 32 - Nov 26</summary>
+
+    - 🗞 [News](https://www.businesstoday.in/technology/news/story/foxconns-hon-hai-announces-16-bn-factory-investment-in-india-407279-2023-11-27) - Foxconn's Hon Hai announces $1.6-bn factory investment in India
+   - 🧠 Facts - met·a·phor - a figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable
+    
+</details>
+
+<details>
    <summary>Day 31 - Nov 25</summary>
 
    - devlopment of twinsta
