@@ -1,4 +1,12 @@
 <details>
+   <summary>Day 33 - Nov 27</summary>
+
+    - 🗞 [News](https://odishatv.in/news/national/over-99-mobile-phones-used-in-india-are-made-in-india-ashwini-vaishnaw-221265?utm_source=newsshowcase&utm_medium=gnews&utm_campaign=CDAqEAgAKgcICjDkxoYLMIjGhAMwwe8W&utm_content=rundown) - Over 99% mobile phones used in India are made in India: Ashwini Vaishnaw
+   - 🧠 Facts - Culprit refers to a person who has committed a crime or done something wrong. Culprit can also refer to the source or cause of a problem.
+    
+</details>
+
+<details>
    <summary>Day 32 - Nov 26</summary>
 
     - 🗞 [News](https://www.businesstoday.in/technology/news/story/foxconns-hon-hai-announces-16-bn-factory-investment-in-india-407279-2023-11-27) - Foxconn's Hon Hai announces $1.6-bn factory investment in India
