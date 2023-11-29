@@ -1,5 +1,13 @@
 # Workzen Hub
 <details>
+   <summary>Day 34 - Nov 28</summary>
+
+    - 🗞 [News](https://www.indiatvnews.com/technology/news/your-gmail-account-will-be-deleted-on-december-1-if-google-2023-11-28-904740) - Your gmail account will be deleted on December 1
+   - 🧠 Facts - Detritus refers to debris—that is, the pieces that remain when something breaks, falls apart, or is destroyed.
+    
+</details>
+
+<details>
    <summary>Day 33 - Nov 27</summary>
 
     - 🗞 [News](https://odishatv.in/news/national/over-99-mobile-phones-used-in-india-are-made-in-india-ashwini-vaishnaw-221265?utm_source=newsshowcase&utm_medium=gnews&utm_campaign=CDAqEAgAKgcICjDkxoYLMIjGhAMwwe8W&utm_content=rundown) - Over 99% mobile phones used in India are made in India: Ashwini Vaishnaw
