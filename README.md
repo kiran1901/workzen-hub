@@ -1,6 +1,14 @@
 # Workzen Hub
 <details>
-   <summary>Day 34 - Nov 28</summary>
+   <summary>Day 35 - Nov 30</summary>
+
+    - 🗞 [News](https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmZvbmVhcmVuYS5jb20vYmxvZy80MTE0NzEvZ29vZ2xlLXBsYXktYmVzdC1hcHBzLWdhbWVzLTIwMjMtaW5kaWEuaHRtbNIBVWh0dHBzOi8vd3d3LmZvbmVhcmVuYS5jb20vYmxvZy80MTE0NzEvZ29vZ2xlLXBsYXktYmVzdC1hcHBzLWdhbWVzLTIwMjMtaW5kaWEuaHRtbC9hbXA?hl=en-IN&gl=IN&ceid=IN%3Aen) - best apps and games of 2023 on Google Play in India
+   - 🧠 Facts - sough - make a moaning, whistling, or rushing sound:
+    
+</details>
+
+<details>
+   <summary>Day 34 - Nov 29</summary>
 
     - 🗞 [News](https://www.indiatvnews.com/technology/news/your-gmail-account-will-be-deleted-on-december-1-if-google-2023-11-28-904740) - Your gmail account will be deleted on December 1
    - 🧠 Facts - Detritus refers to debris—that is, the pieces that remain when something breaks, falls apart, or is destroyed.
@@ -8,7 +16,7 @@
 </details>
 
 <details>
-   <summary>Day 33 - Nov 27</summary>
+   <summary>Day 33 - Nov 28</summary>
 
     - 🗞 [News](https://odishatv.in/news/national/over-99-mobile-phones-used-in-india-are-made-in-india-ashwini-vaishnaw-221265?utm_source=newsshowcase&utm_medium=gnews&utm_campaign=CDAqEAgAKgcICjDkxoYLMIjGhAMwwe8W&utm_content=rundown) - Over 99% mobile phones used in India are made in India: Ashwini Vaishnaw
    - 🧠 Facts - Culprit refers to a person who has committed a crime or done something wrong. Culprit can also refer to the source or cause of a problem.
@@ -16,7 +24,7 @@
 </details>
 
 <details>
-   <summary>Day 32 - Nov 26</summary>
+   <summary>Day 32 - Nov 27</summary>
 
     - 🗞 [News](https://www.businesstoday.in/technology/news/story/foxconns-hon-hai-announces-16-bn-factory-investment-in-india-407279-2023-11-27) - Foxconn's Hon Hai announces $1.6-bn factory investment in India
    - 🧠 Facts - met·a·phor - a figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable

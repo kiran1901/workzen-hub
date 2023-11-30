@@ -1,4 +1,12 @@
 <details>
+   <summary>Day 35 - Nov 30</summary>
+
+    - 🗞 [News](https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmZvbmVhcmVuYS5jb20vYmxvZy80MTE0NzEvZ29vZ2xlLXBsYXktYmVzdC1hcHBzLWdhbWVzLTIwMjMtaW5kaWEuaHRtbNIBVWh0dHBzOi8vd3d3LmZvbmVhcmVuYS5jb20vYmxvZy80MTE0NzEvZ29vZ2xlLXBsYXktYmVzdC1hcHBzLWdhbWVzLTIwMjMtaW5kaWEuaHRtbC9hbXA?hl=en-IN&gl=IN&ceid=IN%3Aen) - best apps and games of 2023 on Google Play in India
+   - 🧠 Facts - sough - make a moaning, whistling, or rushing sound:
+    
+</details>
+
+<details>
    <summary>Day 34 - Nov 28</summary>
 
     - 🗞 [News](https://www.indiatvnews.com/technology/news/your-gmail-account-will-be-deleted-on-december-1-if-google-2023-11-28-904740) - Your gmail account will be deleted on December 1
