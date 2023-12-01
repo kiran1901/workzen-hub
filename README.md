@@ -1,5 +1,13 @@
 # Workzen Hub
 <details>
+   <summary>Day 36 - Dec 1</summary>
+
+    - 🗞 [News](https://zeenews.india.com/electric-vehicles/tesla-cybertruck-launched-in-us-market-priced-much-higher-than-expected-2694079.html) - Tesla Cybertruck Launched In US Market, Priced Much Higher Than Expected
+   - 🧠 Facts - resilient - strong enough to deal with illness, a shock, change, etc.
+    
+</details>
+
+<details>
    <summary>Day 35 - Nov 30</summary>
 
     - 🗞 [News](https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmZvbmVhcmVuYS5jb20vYmxvZy80MTE0NzEvZ29vZ2xlLXBsYXktYmVzdC1hcHBzLWdhbWVzLTIwMjMtaW5kaWEuaHRtbNIBVWh0dHBzOi8vd3d3LmZvbmVhcmVuYS5jb20vYmxvZy80MTE0NzEvZ29vZ2xlLXBsYXktYmVzdC1hcHBzLWdhbWVzLTIwMjMtaW5kaWEuaHRtbC9hbXA?hl=en-IN&gl=IN&ceid=IN%3Aen) - best apps and games of 2023 on Google Play in India
