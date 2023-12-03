@@ -1,4 +1,11 @@
 <details>
+   <summary>Day 37 - Dec 2</summary>
+   
+    - devlopment of twinsta
+    
+</details>
+
+<details>
    <summary>Day 36 - Dec 1</summary>
 
     - 🗞 [News](https://zeenews.india.com/electric-vehicles/tesla-cybertruck-launched-in-us-market-priced-much-higher-than-expected-2694079.html) - Tesla Cybertruck Launched In US Market, Priced Much Higher Than Expected
