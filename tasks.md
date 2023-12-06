@@ -1,4 +1,12 @@
 <details>
+   <summary>Day 40 - Dec 6</summary>
+   
+       - 🗞 [News](https://knnindia.co.in/news/newsdetails/economy/apprenticeship-openings-jump-by-75-across-india-engineering-industrial-sectors-take-lead-teamlease-report?utm_source=newsshowcase&utm_medium=gnews&utm_campaign=CDAqEAgAKgcICjCUh6sLMJGSwwMwn-TKAg&utm_content=rundown) - Apprenticeship Openings Jump By 75% Across India, Engineering, Industrial Sectors Take Lead: TeamLease Report
+   - 🧠 Facts - lev·i·ty - humor or frivolity, especially the treatment of a serious matter with humor or in a manner lacking due respect:
+    
+</details>
+
+<details>
    <summary>Day 39 - Dec 5</summary>
    
     - devlopment of twinsta
