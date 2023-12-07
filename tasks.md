@@ -1,4 +1,12 @@
 <details>
+   <summary>Day 41 - Dec 7</summary>
+   
+       - 🗞 [News](https://www.thequint.com/tech-and-auto/tech-news/google-introduces-gmail-ai-update-to-fight-spam-know-about-retvec-feature) - Google Introduces Gmail AI Update To Fight Spam; Know About the 'RETVec'(Resilient and Efficient Text Vectorizer) Feature
+   - 🧠 Facts - tran·quil·i·ty - the quality or state of being tranquil; calm:
+    
+</details>
+
+<details>
    <summary>Day 40 - Dec 6</summary>
    
        - 🗞 [News](https://knnindia.co.in/news/newsdetails/economy/apprenticeship-openings-jump-by-75-across-india-engineering-industrial-sectors-take-lead-teamlease-report?utm_source=newsshowcase&utm_medium=gnews&utm_campaign=CDAqEAgAKgcICjCUh6sLMJGSwwMwn-TKAg&utm_content=rundown) - Apprenticeship Openings Jump By 75% Across India, Engineering, Industrial Sectors Take Lead: TeamLease Report
