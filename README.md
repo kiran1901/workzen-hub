@@ -1,5 +1,12 @@
 # Workzen Hub
 <details>
+   <summary>Day 42 - Dec 6</summary>
+   
+    - devlopment of twinsta
+    
+</details>
+
+<details>
    <summary>Day 41 - Dec 7</summary>
    
        - 🗞 [News](https://www.thequint.com/tech-and-auto/tech-news/google-introduces-gmail-ai-update-to-fight-spam-know-about-retvec-feature) - Google Introduces Gmail AI Update To Fight Spam; Know About the 'RETVec'(Resilient and Efficient Text Vectorizer) Feature
