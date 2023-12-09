@@ -1,6 +1,13 @@
 # Workzen Hub
 <details>
-   <summary>Day 42 - Dec 6</summary>
+   <summary>Day 43 - Dec 9</summary>
+   
+    - devlopment of twinsta
+    
+</details>
+
+<details>
+   <summary>Day 42 - Dec 8</summary>
    
     - devlopment of twinsta
     

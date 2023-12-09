@@ -1,4 +1,11 @@
 <details>
+   <summary>Day 43 - Dec 9</summary>
+   
+    - devlopment of twinsta
+    
+</details>
+
+<details>
    <summary>Day 42 - Dec 6</summary>
    
     - devlopment of twinsta
