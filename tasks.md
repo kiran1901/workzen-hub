@@ -6,7 +6,7 @@
 </details>
 
 <details>
-   <summary>Day 42 - Dec 6</summary>
+   <summary>Day 42 - Dec 8</summary>
    
     - devlopment of twinsta
     
