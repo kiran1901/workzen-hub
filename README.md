@@ -1,5 +1,12 @@
 # Workzen Hub
 <details>
+   <summary>Day 45 - Dec 11</summary>
+   
+    - devlopment of twinsta
+    
+</details>
+
+<details>
    <summary>Day 44 - Dec 10</summary>
    
     - devlopment of twinsta
