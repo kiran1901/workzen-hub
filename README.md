@@ -1,5 +1,13 @@
 # Workzen Hub
 <details>
+   <summary>Day 47 - Dec 13</summary>
+   
+  - 🗞 [News](https://www.hindustantimes.com/cities/bengaluru-news/vande-bharat-express-likely-to-be-started-between-bengaluru-coimbatore-details-101702372633381.html) - Apprenticeship Openings Jump By 75% Across India, Engineering, Industrial Sectors Take Lead: TeamLease Report
+   - 🧠 Facts - win·some - attractive or appealing in appearance or character:
+    
+</details>
+
+<details>
    <summary>Day 46 - Dec 12</summary>
    
     - devlopment of twinsta
