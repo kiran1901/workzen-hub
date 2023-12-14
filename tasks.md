@@ -1,4 +1,12 @@
 <details>
+   <summary>Day 48 - Dec 14</summary>
+   
+  - 🗞 [News](https://www.livemint.com/technology/tech-news/elon-musks-grok-ai-is-now-available-in-india-heres-how-you-can-get-access-to-the-chatbot-xai-11702519015854.html) - Elon Musk's Grok AI is now available for users in India
+   - 🧠 Facts - grinch - a person who is mean-spirited and unfriendly
+    
+</details>
+
+<details>
    <summary>Day 47 - Dec 13</summary>
    
   - 🗞 [News](https://www.hindustantimes.com/cities/bengaluru-news/vande-bharat-express-likely-to-be-started-between-bengaluru-coimbatore-details-101702372633381.html) - Apprenticeship Openings Jump By 75% Across India, Engineering, Industrial Sectors Take Lead: TeamLease Report
