@@ -1,4 +1,11 @@
 <details>
+   <summary>Day 47 - Dec 15</summary>
+   
+    - portfolio updation
+    
+</details>
+
+<details>
    <summary>Day 48 - Dec 14</summary>
    
   - 🗞 [News](https://www.livemint.com/technology/tech-news/elon-musks-grok-ai-is-now-available-in-india-heres-how-you-can-get-access-to-the-chatbot-xai-11702519015854.html) - Elon Musk's Grok AI is now available for users in India
