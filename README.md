@@ -1,5 +1,12 @@
 # Workzen Hub
 <details>
+   <summary>Day 48 - Dec 16</summary>
+   
+    - portfolio updation
+    
+</details>
+
+<details>
    <summary>Day 47 - Dec 15</summary>
    
     - portfolio updation
