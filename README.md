@@ -1,5 +1,13 @@
 # Workzen Hub
 <details>
+   <summary>Day 50 - Dec 18</summary>
+   
+  - 🗞 [News](https://www.hindustantimes.com/technology/google-suspended-2-500-fraudulent-loan-apps-on-play-store-fm-sitharaman-101702905875291.html) - Google suspended 2,500 fraudulent loan apps on Play Store: FM Sitharaman
+   - 🧠 Facts - Giraffes need surprisingly little sleep. The average giraffe sleeps for 4.6 hours per day. 
+    
+</details>
+
+<details>
    <summary>Day 49 - Dec 17</summary>
    
     - portfolio updation
