@@ -1,4 +1,11 @@
 <details>
+   <summary>Day 51 - Dec 19</summary>
+   
+    - portfolio updation
+    
+</details>
+
+<details>
    <summary>Day 50 - Dec 18</summary>
    
   - 🗞 [News](https://www.hindustantimes.com/technology/google-suspended-2-500-fraudulent-loan-apps-on-play-store-fm-sitharaman-101702905875291.html) - Google suspended 2,500 fraudulent loan apps on Play Store: FM Sitharaman
