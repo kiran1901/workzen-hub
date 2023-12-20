@@ -1,4 +1,11 @@
 <details>
+   <summary>Day 52 - Dec 20</summary>
+   
+    - portfolio updation
+    
+</details>
+
+<details>
    <summary>Day 51 - Dec 19</summary>
    
     - portfolio updation
