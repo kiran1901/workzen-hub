@@ -3,7 +3,7 @@
 <details>
    <summary>Day 56 - Dec 24</summary>
    
-    - BE learning
+    - BE Learning
     
 </details>
 
