@@ -1,4 +1,10 @@
 # Workzen Hub
+<details>
+   <summary>Day 58 - Dec 26</summary>
+   
+    - BE Learning
+    
+</details>
 
 <details>
    <summary>Day 56 - Dec 24</summary>
