@@ -1,4 +1,11 @@
 <details>
+   <summary>Day  - Jan 3</summary>
+   
+    - BE Learning
+    
+</details>
+
+<details>
    <summary>Day 59 - Dec 27</summary>
    
     - BE Learning
