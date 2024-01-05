@@ -1,5 +1,13 @@
 # Workzen Hub
 <details>
+   <summary>Day  - Jan 5</summary>
+   
+      - 🗞 [News](https://www.veera.com/?mtm_campaign=Website) - Veera browser
+      - 🧠 Facts -Samsung is 38 years and 1 month older than Apple.
+    
+</details>
+
+<details>
    <summary>Day  - Jan 4</summary>
    
       - 🗞 [News]("Cost Millions To Make": YouTuber MrBeast After Elon Musk Asks Him To Upload Videos On X) - "Cost Millions To Make": YouTuber MrBeast After Elon Musk Asks Him To Upload Videos On X
