@@ -1,4 +1,13 @@
 # Workzen Hub
+
+<details>
+   <summary>Feb 15 - 2024</summary>
+   
+      - 🧠 LC - https://leetcode.com/problems/two-sum/
+    
+</details>
+
+
 <details>
    <summary>Day  - Jan 5</summary>
    
