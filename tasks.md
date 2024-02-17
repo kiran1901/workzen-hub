@@ -1,4 +1,11 @@
 <details>
+   <summary>Feb 16 - 2024</summary>
+   
+      - 🧠 LC - https://leetcode.com/problems/palindrome-number/ 
+    
+</details>
+
+<details>
    <summary>Feb 15 - 2024</summary>
    
       - 🧠 LC - https://leetcode.com/problems/two-sum/
