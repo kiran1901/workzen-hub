@@ -1,5 +1,12 @@
 # Workzen Hub
 <details>
+   <summary>March 12 - 2024</summary>
+   
+      - 🗞 [News] https://www.thehindu.com/news/national/sbi-sends-electoral-bonds-details-to-election-commission/article67943294.ece
+    
+</details>
+
+<details>
    <summary>March 11 - 2024</summary>
    
       - 🗞 [News] https://www.businesstoday.in/entrepreneurship/news/story/byjus-gives-up-all-office-spaces-except-bluru-hq-makes-wfh-compulsory-for-employees-indefinitely-420939-2024-03-11- 
