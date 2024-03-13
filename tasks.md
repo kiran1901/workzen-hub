@@ -1,4 +1,11 @@
 <details>
+   <summary>March 13 - 2024</summary>
+   
+      - 🗞 [News] https://www.moneycontrol.com/news/technology/tata-motors-to-build-rs-9000-cr-plant-in-tamil-nadu-to-generate-5000-jobs-12453741.html
+    
+</details>
+
+<details>
    <summary>March 12 - 2024</summary>
    
       - 🗞 [News] https://www.thehindu.com/news/national/sbi-sends-electoral-bonds-details-to-election-commission/article67943294.ece
