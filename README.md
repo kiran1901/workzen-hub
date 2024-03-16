@@ -1,4 +1,12 @@
 # Workzen Hub
+
+<details>
+   <summary>March 16 - 2024</summary>
+   
+      - 🗞 [News] https://www.hindustantimes.com/business/devin-ai-worlds-first-ai-software-engineer-is-here-so-will-it-take-your-job-101710399214108.html
+</details>
+
+
 <details>
    <summary>March 13 - 2024</summary>
    
