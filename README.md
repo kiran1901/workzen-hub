@@ -1,4 +1,13 @@
 # Workzen Hub
+<details>
+   <summary>March 17 - 2024</summary>
+
+   - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
+      Youtube](https://youtu.be/iWWWyG5ZwG8?si=sYKcYu0UX5ofppDl)
+   - 🗞 [News](https://economictimes.indiatimes.com/industry/energy/oil-gas/small-cut-in-fuel-price-a-big-hit-to-omc-revenue-analysts/articleshow/108552453.cms?from=mdr) - Small cut in fuel price a big hit to OMC revenue: Analysts
+   <!-- - 🧠 Facts - NASA’s internet speed is 91 GB per second. -->
+
+</details>
 
 <details>
    <summary>March 16 - 2024</summary>
