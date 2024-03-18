@@ -1,5 +1,12 @@
 # Workzen Hub
 <details>
+   <summary>March 18 - 2024</summary>
+
+   - 🗞 [News](https://www.cnbc.com/2024/03/18/apple-in-talks-to-license-googles-gemini-for-generative-ai-bloomberg.html) - Alphabet shares up 7% on report Apple is in talks to license Gemini AI for iPhones
+
+</details>
+
+<details>
    <summary>March 17 - 2024</summary>
 
    - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" width="15" />[
