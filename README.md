@@ -1,5 +1,12 @@
 # Workzen Hub
 <details>
+   <summary>March 19 - 2024</summary>
+
+   - 🗞 [News](https://www.moneycontrol.com/news/world/bitcoin-slides-5-as-profit-taking-sweeps-crypto-12486411.html) - Bitcoin slides 5% as profit-taking sweeps crypto
+
+</details>
+
+<details>
    <summary>March 18 - 2024</summary>
 
    - 🗞 [News](https://www.cnbc.com/2024/03/18/apple-in-talks-to-license-googles-gemini-for-generative-ai-bloomberg.html) - Alphabet shares up 7% on report Apple is in talks to license Gemini AI for iPhones
