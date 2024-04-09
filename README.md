@@ -1,5 +1,12 @@
 # Workzen Hub
 <details>
+   <summary>April 9 - 2024</summary>
+
+   - 🗞 [News](https://upstox.com/news/market-news/ipo/swiggy-converts-into-public-limited-company-ahead-of-ipo-launch/) - Swiggy IPO: Food delivery firm converts into public limited company, changes name to Swiggy Ltd
+
+</details>
+
+<details>
    <summary>March 19 - 2024</summary>
 
    - 🗞 [News](https://www.moneycontrol.com/news/world/bitcoin-slides-5-as-profit-taking-sweeps-crypto-12486411.html) - Bitcoin slides 5% as profit-taking sweeps crypto
